@@ -1,2 +1,2 @@
 # My-journey
-My journey as a begginner in Data Science and Machine Learning. Let's learn and have fun!
+With this repo i intend to document some of my personal projects in technology and programming, in my yearning to learn something new and improve my skills. My interest are BlockChain, Data Science and Machine Learning. I believe that these are the most transformational technologies of 21st century and for that are worth learning and having fun with. As it is stated by a famous Lao Tzu proverb: “The journey of a thousand miles begins with a single step.”. So this is my first step, wish me luck.
